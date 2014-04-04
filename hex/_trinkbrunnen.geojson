@@ -1,0 +1,1705 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-04-03T10:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/275610535",
+      "properties": {
+        "@id": "node/275610535",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4516136,
+          47.0647281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289888428",
+      "properties": {
+        "@id": "node/289888428",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4390723,
+          47.0665945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297039975",
+      "properties": {
+        "@id": "node/297039975",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459135,
+          47.0687823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297040056",
+      "properties": {
+        "@id": "node/297040056",
+        "amenity": "drinking_water",
+        "source:position": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4561011,
+          47.0707479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297040100",
+      "properties": {
+        "@id": "node/297040100",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4533569,
+          47.0666026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/374287050",
+      "properties": {
+        "@id": "node/374287050",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4536107,
+          47.0620919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385226563",
+      "properties": {
+        "@id": "node/385226563",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4166922,
+          47.0950896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385226567",
+      "properties": {
+        "@id": "node/385226567",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417586,
+          47.0954471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/492020563",
+      "properties": {
+        "@id": "node/492020563",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4028585,
+          47.0723936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671679752",
+      "properties": {
+        "@id": "node/671679752",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4748721,
+          47.0942869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671679756",
+      "properties": {
+        "@id": "node/671679756",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4958742,
+          47.1040745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/767054976",
+      "properties": {
+        "@id": "node/767054976",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3954029,
+          47.0725127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/830678479",
+      "properties": {
+        "@id": "node/830678479",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4463409,
+          47.0666416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/833468100",
+      "properties": {
+        "@id": "node/833468100",
+        "amenity": "drinking_water",
+        "dog": "yes",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4454363,
+          47.0359081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/833468113",
+      "properties": {
+        "@id": "node/833468113",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4387662,
+          47.0519584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/833468130",
+      "properties": {
+        "@id": "node/833468130",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4432949,
+          47.0446035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/833468140",
+      "properties": {
+        "@id": "node/833468140",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4419375,
+          47.0444754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/835910962",
+      "properties": {
+        "@id": "node/835910962",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4475207,
+          47.0563306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/836868488",
+      "properties": {
+        "@id": "node/836868488",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4419079,
+          47.0683724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/853851157",
+      "properties": {
+        "@id": "node/853851157",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4415877,
+          47.0723114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/894114333",
+      "properties": {
+        "@id": "node/894114333",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4509058,
+          47.06499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/895651389",
+      "properties": {
+        "@id": "node/895651389",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4362326,
+          47.0728183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/895691168",
+      "properties": {
+        "@id": "node/895691168",
+        "amenity": "drinking_water",
+        "source:position": "Stadt Graz - data.graz.gv.at",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4343437,
+          47.0591249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/900967353",
+      "properties": {
+        "@id": "node/900967353",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4311789,
+          47.0379205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1094094488",
+      "properties": {
+        "@id": "node/1094094488",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4724235,
+          47.0616615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1405242902",
+      "properties": {
+        "@id": "node/1405242902",
+        "amenity": "drinking_water",
+        "name": "Maria-Hift Quelle",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4285969,
+          47.0966011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1434058760",
+      "properties": {
+        "@id": "node/1434058760",
+        "amenity": "drinking_water",
+        "fixme": "position correct? not listed on data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4271245,
+          47.073605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1434109677",
+      "properties": {
+        "@id": "node/1434109677",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4219885,
+          47.0720622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439170781",
+      "properties": {
+        "@id": "node/1439170781",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4437232,
+          47.0633358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1446295239",
+      "properties": {
+        "@id": "node/1446295239",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4403045,
+          47.0739158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1448534644",
+      "properties": {
+        "@id": "node/1448534644",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4910272,
+          47.1073492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449358446",
+      "properties": {
+        "@id": "node/1449358446",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4225323,
+          47.078264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1459788418",
+      "properties": {
+        "@id": "node/1459788418",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4501667,
+          47.076117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1462844094",
+      "properties": {
+        "@id": "node/1462844094",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4422613,
+          47.0772255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1473100592",
+      "properties": {
+        "@id": "node/1473100592",
+        "access": "private",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4493771,
+          47.0595817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1480201531",
+      "properties": {
+        "@id": "node/1480201531",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4227458,
+          47.0659915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1480224337",
+      "properties": {
+        "@id": "node/1480224337",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4274189,
+          47.0643985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1480229981",
+      "properties": {
+        "@id": "node/1480229981",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4274702,
+          47.0638187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1533182977",
+      "properties": {
+        "@id": "node/1533182977",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4336422,
+          47.0709513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1567937690",
+      "properties": {
+        "@id": "node/1567937690",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4373811,
+          47.0739138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1596015063",
+      "properties": {
+        "@id": "node/1596015063",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4639575,
+          47.0535127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727454930",
+      "properties": {
+        "@id": "node/1727454930",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4311987,
+          47.0810444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742681939",
+      "properties": {
+        "@id": "node/1742681939",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4520746,
+          47.0274739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1765438590",
+      "properties": {
+        "@id": "node/1765438590",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4305687,
+          47.0410792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1766414295",
+      "properties": {
+        "@id": "node/1766414295",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4427515,
+          47.0744881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1780667070",
+      "properties": {
+        "@id": "node/1780667070",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4466489,
+          47.0685657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1798422803",
+      "properties": {
+        "@id": "node/1798422803",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4201666,
+          47.1043846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1829873910",
+      "properties": {
+        "@id": "node/1829873910",
+        "amenity": "drinking_water",
+        "opening_hours": "Winter off",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4853468,
+          47.0462424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1829873923",
+      "properties": {
+        "@id": "node/1829873923",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4843894,
+          47.0468293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1879146479",
+      "properties": {
+        "@id": "node/1879146479",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4349514,
+          47.0608218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1890431530",
+      "properties": {
+        "@id": "node/1890431530",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4596812,
+          47.0584046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1910476618",
+      "properties": {
+        "@id": "node/1910476618",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4362374,
+          47.0610039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978233132",
+      "properties": {
+        "@id": "node/1978233132",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4357659,
+          47.0706441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1997336095",
+      "properties": {
+        "@id": "node/1997336095",
+        "amenity": "drinking_water",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4222985,
+          47.1029794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2105647997",
+      "properties": {
+        "@id": "node/2105647997",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4636434,
+          47.0589138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2105648089",
+      "properties": {
+        "@id": "node/2105648089",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4636381,
+          47.0592421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2124958693",
+      "properties": {
+        "@id": "node/2124958693",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454663,
+          47.0628942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2126933532",
+      "properties": {
+        "@id": "node/2126933532",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4383862,
+          47.0710699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2136753543",
+      "properties": {
+        "@id": "node/2136753543",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4346369,
+          47.0689812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2136753690",
+      "properties": {
+        "@id": "node/2136753690",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4365908,
+          47.070956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2141640936",
+      "properties": {
+        "@id": "node/2141640936",
+        "amenity": "drinking_water",
+        "opening_hours": "Summer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431746,
+          47.0669448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2144259213",
+      "properties": {
+        "@id": "node/2144259213",
+        "amenity": "drinking_water",
+        "fee": "no",
+        "indoor": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4638569,
+          47.0595826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2300968591",
+      "properties": {
+        "@id": "node/2300968591",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4370248,
+          47.0618984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2304975599",
+      "properties": {
+        "@id": "node/2304975599",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4511633,
+          47.070734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2341231738",
+      "properties": {
+        "@id": "node/2341231738",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4365371,
+          47.0630031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392575838",
+      "properties": {
+        "@id": "node/2392575838",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4524657,
+          47.0646854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2393696537",
+      "properties": {
+        "@id": "node/2393696537",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4603981,
+          47.0836045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2393802966",
+      "properties": {
+        "@id": "node/2393802966",
+        "amenity": "drinking_water",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4509288,
+          47.0640267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2401290272",
+      "properties": {
+        "@id": "node/2401290272",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450354,
+          47.0685543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2411411140",
+      "properties": {
+        "@id": "node/2411411140",
+        "amenity": "drinking_water",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4647398,
+          47.0141057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546637",
+      "properties": {
+        "@id": "node/2452546637",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4249146,
+          47.0241083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546638",
+      "properties": {
+        "@id": "node/2452546638",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3962911,
+          47.0322159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546639",
+      "properties": {
+        "@id": "node/2452546639",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445062,
+          47.0454876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546640",
+      "properties": {
+        "@id": "node/2452546640",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4710039,
+          47.0484313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546641",
+      "properties": {
+        "@id": "node/2452546641",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4260837,
+          47.0488605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546642",
+      "properties": {
+        "@id": "node/2452546642",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4691062,
+          47.0500286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546643",
+      "properties": {
+        "@id": "node/2452546643",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4565026,
+          47.0509585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546644",
+      "properties": {
+        "@id": "node/2452546644",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4458315,
+          47.0520657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546645",
+      "properties": {
+        "@id": "node/2452546645",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4744833,
+          47.05439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546646",
+      "properties": {
+        "@id": "node/2452546646",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4033866,
+          47.0544253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546647",
+      "properties": {
+        "@id": "node/2452546647",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442608,
+          47.0676604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546648",
+      "properties": {
+        "@id": "node/2452546648",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3973803,
+          47.067948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546649",
+      "properties": {
+        "@id": "node/2452546649",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4469155,
+          47.068388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546650",
+      "properties": {
+        "@id": "node/2452546650",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4356316,
+          47.0686116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546651",
+      "properties": {
+        "@id": "node/2452546651",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4385561,
+          47.070955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546652",
+      "properties": {
+        "@id": "node/2452546652",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4381533,
+          47.0712087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546653",
+      "properties": {
+        "@id": "node/2452546653",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4279893,
+          47.0729132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546654",
+      "properties": {
+        "@id": "node/2452546654",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4274754,
+          47.0734118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546655",
+      "properties": {
+        "@id": "node/2452546655",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4457089,
+          47.0750638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546656",
+      "properties": {
+        "@id": "node/2452546656",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4307387,
+          47.0751721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546657",
+      "properties": {
+        "@id": "node/2452546657",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4581151,
+          47.0758567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546658",
+      "properties": {
+        "@id": "node/2452546658",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4047321,
+          47.0763621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546659",
+      "properties": {
+        "@id": "node/2452546659",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4584865,
+          47.0763763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546660",
+      "properties": {
+        "@id": "node/2452546660",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4533252,
+          47.0764001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546661",
+      "properties": {
+        "@id": "node/2452546661",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3958084,
+          47.0765301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546662",
+      "properties": {
+        "@id": "node/2452546662",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4601853,
+          47.0819648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546663",
+      "properties": {
+        "@id": "node/2452546663",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4338494,
+          47.0832288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546664",
+      "properties": {
+        "@id": "node/2452546664",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4518668,
+          47.0836184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546665",
+      "properties": {
+        "@id": "node/2452546665",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4114829,
+          47.0933157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546666",
+      "properties": {
+        "@id": "node/2452546666",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4119379,
+          47.0962023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546667",
+      "properties": {
+        "@id": "node/2452546667",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4118063,
+          47.1011606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546668",
+      "properties": {
+        "@id": "node/2452546668",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4123908,
+          47.1090304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546669",
+      "properties": {
+        "@id": "node/2452546669",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4211725,
+          47.1152248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452546670",
+      "properties": {
+        "@id": "node/2452546670",
+        "amenity": "drinking_water",
+        "source": "Stadt Graz - data.graz.gv.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4422473,
+          47.1254376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2485284458",
+      "properties": {
+        "@id": "node/2485284458",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4314094,
+          47.1014116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2520905999",
+      "properties": {
+        "@id": "node/2520905999",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4039014,
+          47.0715679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2635711871",
+      "properties": {
+        "@id": "node/2635711871",
+        "amenity": "drinking_water",
+        "opening_hours": "Winter off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4244778,
+          47.0713338
+        ]
+      }
+    }
+  ]
+}
